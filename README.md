@@ -31,7 +31,6 @@ The dashboard is therefore designed to focus on business questions rather than v
 
 ## Dashboard
 
-![Favorita Store Performance Analytics](images/Favorita_Store_Performance_Analytics_LinkedIn.png)
 
 ## Tools & Skills
 

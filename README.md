@@ -30,7 +30,7 @@ This project was developed with that principle in mind:
 The dashboard is therefore designed to focus on business questions rather than visual complexity.
 
 ## Dashboard
-
+![Favorita Store Performance Analytics](./images/Favorita_Store_Performance_Analytics_LinkedIn.png)
 
 ## Tools & Skills
 
